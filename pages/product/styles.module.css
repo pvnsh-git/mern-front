@@ -1,0 +1,15 @@
+.description {
+    text-align: center;
+    margin: 30px;
+
+    .link {
+        margin-bottom: 20px;
+    }
+
+    .display {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+}
